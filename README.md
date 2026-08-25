@@ -5,16 +5,15 @@ Currently **graduate research assistant** at the Information Systems Laboratory 
 My research focuses on **Smart Cities**, **Cyber-Physical Systems**, and **Robotics**.
 
 ## 📚 Education
-🎓🎓 **Master's in Computer Science Engineering** (Cyber-Physical Systems specialization)
-
-🎓 Bachelor's in Computer and Automation Engineering
+- **Master's in Computer Science Engineering** (Cyber-Physical Systems specialization)
+- Bachelor's in Computer and Automation Engineering
 
 ## ⌘ Interests
 
-- 🤖 **Robotics** — mobile robot navigation, path planning, sensor fusion
-- ⚙️ **Embedded control** — real-time firmware, data acquisition, Arduino/C++
-- 🏙️ **Smart City** — urban mobility, traffic simulation, digital twins, public-transit data
-- 🧰 **Utility apps** — small tools that fix the friction in my daily workflow
+- **Robotics** — mobile robot navigation, path planning, sensor fusion
+- **Embedded control** — real-time firmware, data acquisition, Arduino/C++
+- **Smart City** — urban mobility, traffic simulation, digital twins, public-transit data
+- **Utility apps** — small tools that fix the friction in my daily workflow
 
 ## 🛠️ Tech Stack
 
@@ -30,7 +29,7 @@ My research focuses on **Smart Cities**, **Cyber-Physical Systems**, and **Robot
 
 ## 🚀 Projects
 
-**🤖 Robotics & embedded control**
+** Robotics & embedded control**
 - [**adam_project**](https://github.com/FrancescoUmberto/adam_project) — a *thrust stand* for drone motors: distributed acquisition of thrust, RPM, current, voltage, temperature and noise, with modular C++ firmware and safe motor control.
 - [**Self-Balancing Robot (SBRobot)**](https://github.com/SBRobot-Self-Balancing-Robot/SBRobot) using classic control method (PID) on real hardware.
 - [**SBRobot_DRL**](https://github.com/SBRobot-Self-Balancing-Robot/SBRobot_DRL) using Deep Reinforcement Learning (DRL) in Mujoco simulation.
