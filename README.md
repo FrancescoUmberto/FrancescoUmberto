@@ -29,7 +29,6 @@ My research focuses on **Smart Cities**, **Cyber-Physical Systems**, and **Robot
 
 ## 🚀 Projects
 
-**Robotics & embedded control**
 - [**adam_project**](https://github.com/FrancescoUmberto/adam_project) — a *thrust stand* for drone motors: distributed acquisition of thrust, RPM, current, voltage, temperature and noise, with modular C++ firmware and safe motor control.
 - [**Self-Balancing Robot (SBRobot)**](https://github.com/SBRobot-Self-Balancing-Robot/SBRobot) using classic control method (PID) on real hardware.
 - [**SBRobot_DRL**](https://github.com/SBRobot-Self-Balancing-Robot/SBRobot_DRL) using Deep Reinforcement Learning (DRL) in Mujoco simulation.
@@ -39,8 +38,8 @@ My research focuses on **Smart Cities**, **Cyber-Physical Systems**, and **Robot
 
 
 **🧰 Utility apps**
-- [**GoodBases**](https://github.com/FrancescoUmberto/GoodBases) — a custom Bases view for
-  [Obsidian](https://obsidian.md) rendering databases as a Notion-style table: colored value pills, inline cell editing, hover-reveal actions.
+- [**GoodBases**](https://github.com/FrancescoUmberto/GoodBases) a custom Bases view for
+ [Obsidian](https://obsidian.md) rendering databases as a Notion-style table: colored value pills, inline cell editing, hover-reveal actions.
 
 ## 📄 Publications
 - Carolini, U.F., Loconte, D., Loseto, G., Scioscia, F. (2026). A Simulation-as-a-Service Engine for Urban Mobility Digital Twins. In: Hsu, YC., Systä, K., Ko, IY., Gramegna, F. (eds) The Inclusive Web: Realizing Safe, Accessible, Inclusive, and Sustainable Web Engineering. ICWE 2025. Communications in Computer and Information Science, vol 2735. Springer, Cham. https://doi.org/10.1007/978-3-032-11233-0_12
