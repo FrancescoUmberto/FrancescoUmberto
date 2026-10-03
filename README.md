@@ -40,7 +40,8 @@ My research focuses on **Smart Cities**, **Cyber-Physical Systems**, and **Robot
 **🧰 Utility apps**
 - [**GoodBases**](https://github.com/FrancescoUmberto/GoodBases) a custom Bases view for
  [Obsidian](https://obsidian.md) rendering databases as a Notion-style table: colored value pills, inline cell editing, hover-reveal actions.
-
+- [**Excidian**](https://github.com/FrancescoUmberto/Excidian) view and edit Excel sheets inside your Obsidian notes, saved straight back to the .xlsx file.
+  
 ## 📄 Publications
 - Carolini, U.F., Loconte, D., Loseto, G., Scioscia, F. (2026). A Simulation-as-a-Service Engine for Urban Mobility Digital Twins. In: Hsu, YC., Systä, K., Ko, IY., Gramegna, F. (eds) The Inclusive Web: Realizing Safe, Accessible, Inclusive, and Sustainable Web Engineering. ICWE 2025. Communications in Computer and Information Science, vol 2735. Springer, Cham. https://doi.org/10.1007/978-3-032-11233-0_12
 
